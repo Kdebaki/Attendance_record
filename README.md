@@ -130,10 +130,12 @@ Class Balance: Ensure all classes have a similar number of images to avoid bias.
    ```bash
    git clone https://github.com/username/attendance-face-recognition.git
    cd attendance-face-recognition
+![image](https://github.com/user-attachments/assets/a016fe25-f81e-4257-9057-86099225368f)
 
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+![image](https://github.com/user-attachments/assets/bcd68c81-1c2e-4db7-8700-392aab26440b)
 
 3. Create and configure the MySQL database:
    - Create a database named `attendance_system`.
@@ -160,6 +162,7 @@ python attendance_system.py
 2.The system will:
 
 •Open a webcam window to detect and recognize faces.
+![image](https://github.com/user-attachments/assets/291dd064-cdd2-42f8-b965-73f7b2d92b32)
 
 •Record attendance in the database.
 
